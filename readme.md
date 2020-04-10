@@ -20,7 +20,7 @@ Para un uso comercial, por favor contactarnos.
 + Coordinación general
     + [Fundación FabLab Córdoba](http://fablabcordoba.org)
     + [Mi 3DP](www.facebook.com/mi3dp)
-    + [Diseño Industrial y Prototipado](mailto:dip3dcba@gmail.com)
+    + [DIP - Diseño y Prototipado](mailto:dip3dcba@gmail.com)
 + Gestión operativa:
     + [Omnicraft](https://omnicraft3d.com/)
     
