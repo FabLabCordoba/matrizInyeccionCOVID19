@@ -23,6 +23,9 @@ Para un uso comercial, por favor contactarnos.
     + [Diseño Industrial y Prototipado](mailto:dip3dcba@gmail.com)
 + Gestión operativa:
     + [Omnicraft](https://omnicraft3d.com/)
+    
+    
+    
 ![FabLab Córdoba](./img/FabLab.jpg)
 ![Mi 3DP](./img/mi3dp.jpg)
 ![DIP](./img/dip.jpg)
