@@ -2,6 +2,7 @@
 ### Matriz de inyección de plástico Open-Source para protectores faciales.
 
 (fundamentación)
+![Video](./img/video.avi)
 ![Despiece](./img/despiece.gif)
 
 ## (especificación tecnica)
