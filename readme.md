@@ -1,13 +1,12 @@
-# (nombre proyecto)
+# Corona Injection
 ### Matriz de inyección de plástico Open-Source para protectores faciales.
 
-(fundamentación)
-![Video](./img/video.avi)
 ![Despiece](./img/despiece.gif)
 
-## (especificación tecnica)
-(imagen, materiales, tiempos, costos estimados)
-(citar informes y conclusión)
+La comunidad maker de Argentina se unió para dar una respuesta a la crisis sanitaria desatada por COVID19. Mientras se imprimía en 3D sin descanso, se desarrolló la presente matriz de inyección de plástico con la intención de lograr una producción masiva al menor costo posible.
+
+## Especificaciones técnicas
+Ver ![informe](./Informe.pdf).
 
 ## Licencia
 
