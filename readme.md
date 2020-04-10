@@ -6,7 +6,7 @@
 La comunidad maker de Argentina se unió para dar una respuesta a la crisis sanitaria desatada por COVID19. Mientras se imprimía en 3D sin descanso, se desarrolló la presente matriz de inyección de plástico con la intención de lograr una producción masiva al menor costo posible.
 
 ## Especificaciones técnicas
-Ver ![informe](https://github.com/FabLabCordoba/matrizInyeccionCOVID19/blob/master/Informe.pdf).
+Ver ![informe](https://github.com/FabLabCordoba/matrizInyeccionCOVID19/blob/master/Informe.pdf "informe").
 
 ## Licencia
 
