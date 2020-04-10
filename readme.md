@@ -10,12 +10,18 @@ Ver [informe](https://github.com/FabLabCordoba/matrizInyeccionCOVID19/blob/maste
 
 ## Licencia
 
-Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+[Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+Para un uso comercial, por favor contactarnos.
 
 ## (participantes)
 
 (agregar nombre, logo, redes, rol)
++Coordinación general
+    +[Fundación FabLab Córdoba](http://fablabcordoba.org)
+    +[Mi 3DP](www.facebook.com/mi3dp)
+    +[Diseño Industrial y Prototipado](mailto:dip3dcba@gmail.com)
++Gestión operativa:
+    +[Omnicraft](https://omnicraft3d.com/)
 ![FabLab Córdoba](./img/FabLab.jpg)
 ![Mi 3DP](./img/mi3dp.jpg)
 ![DIP](./img/dip.jpg)
